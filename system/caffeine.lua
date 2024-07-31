@@ -1,6 +1,6 @@
 ---
 --- 控制空闲时是否允许屏幕睡眠
---- Created by sugood(https://github.com/sugood).
+--- Created by sugood(https://github.com/hailong-bot).
 --- DateTime: 2020/10/24 14:13
 ---
 local menuBarItem = nil

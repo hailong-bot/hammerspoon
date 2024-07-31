@@ -1,7 +1,7 @@
 ---
 --- 显示系统信息
 --- 可显示CPU\内存\硬盘\网络等实时信息
---- Created by sugood(https://github.com/sugood).
+--- Created by sugood(https://github.com/hailong-bot).
 --- DateTime: 2022/01/14 22:00
 ---
 
