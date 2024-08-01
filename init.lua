@@ -9,5 +9,11 @@ require "init.commons"
 -- require "wifi.wifi"
 require "system.systeminfo"
 require "system.caffeine"
+require "search.search"
 
 -- Private use
+print(hs.host.localizedName())
+if (hs.host.localizedName() == '陈海龙的MacBook Pro') then
+	-- require("autoscript.autoscript")
+    require 'private.hotkey'
+end
